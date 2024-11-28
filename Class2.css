@@ -1,0 +1,23 @@
+.Titulo {
+    width: 1905px; height: 100px;
+    background-color: rgb(253, 253, 253);
+    text-align: center;
+    position: relative;
+    right: 10px;
+}
+body {
+    background-color: #ffa500;
+}
+iframe {
+    position: relative;
+    top: 10px;
+    left: 650px;
+}
+.Bajo {
+    width: 1905px; height: 100px;
+    background-color: rgb(253, 253, 253);
+    text-align: center;
+    position: relative;
+    right: 10px;
+    font-style:italic;
+}
